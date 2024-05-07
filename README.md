@@ -1,2 +1,5 @@
-# GachaImpact
-"Gacha Impact" adalah proyek Java simulasi gacha game. Program meminta input jumlah gacha, menentukan rarity secara acak, dan mencatat kemunculan rarity. Program ini dibangun sebagai bagian dari penilaian UTS semester 2 dalam mata kuliah pemrograman berbasis objek.
+🚀 Selamat Datang di Gacha Impact!
+
+Gacha Impact adalah sebuah program sederhana yang mengimplementasikan mekanisme gacha dalam bentuk simulasi. Dengan menggunakan Java, program ini menghasilkan hasil gacha berdasarkan rarity yang telah ditentukan. Pengguna dapat memasukkan jumlah kali gacha yang diinginkan, dan program akan mengeluarkan hasilnya berdasarkan kemungkinan rarity yang telah ditetapkan.
+Penulis 
+(Anjar Nur Afif, 17230361)
